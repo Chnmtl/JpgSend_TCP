@@ -1,0 +1,20 @@
+c:\users\asus\documents\visual studio 2015\Projects\TcpRecieve\TcpRecieve\bin\Debug\TcpRecieve.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\TcpRecieve\TcpRecieve\bin\Debug\TcpRecieve.exe
+c:\users\asus\documents\visual studio 2015\Projects\TcpRecieve\TcpRecieve\bin\Debug\TcpRecieve.pdb
+c:\users\asus\documents\visual studio 2015\Projects\TcpRecieve\TcpRecieve\obj\Debug\TcpRecieve.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\TcpRecieve\TcpRecieve\obj\Debug\TcpRecieve.exe
+c:\users\asus\documents\visual studio 2015\Projects\TcpRecieve\TcpRecieve\obj\Debug\TcpRecieve.pdb
+C:\Users\Cihan\Desktop\ComputerNetwork HW\NetworkTcp1\TcpRecieve\TcpRecieve\bin\Debug\TcpRecieve.exe.config
+C:\Users\Cihan\Desktop\ComputerNetwork HW\NetworkTcp1\TcpRecieve\TcpRecieve\bin\Debug\TcpRecieve.exe
+C:\Users\Cihan\Desktop\ComputerNetwork HW\NetworkTcp1\TcpRecieve\TcpRecieve\bin\Debug\TcpRecieve.pdb
+C:\Users\Cihan\Desktop\ComputerNetwork HW\NetworkTcp1\TcpRecieve\TcpRecieve\obj\Debug\TcpRecieve.csprojAssemblyReference.cache
+C:\Users\Cihan\Desktop\ComputerNetwork HW\NetworkTcp1\TcpRecieve\TcpRecieve\obj\Debug\TcpRecieve.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\Desktop\ComputerNetwork HW\NetworkTcp1\TcpRecieve\TcpRecieve\obj\Debug\TcpRecieve.exe
+C:\Users\Cihan\Desktop\ComputerNetwork HW\NetworkTcp1\TcpRecieve\TcpRecieve\obj\Debug\TcpRecieve.pdb
+C:\Users\Cihan\Desktop\Computer Network\ComputerNetworkHW\ComputerNetwork HW\NetworkTcp1\TcpRecieve\TcpRecieve\bin\Debug\TcpRecieve.exe.config
+C:\Users\Cihan\Desktop\Computer Network\ComputerNetworkHW\ComputerNetwork HW\NetworkTcp1\TcpRecieve\TcpRecieve\bin\Debug\TcpRecieve.exe
+C:\Users\Cihan\Desktop\Computer Network\ComputerNetworkHW\ComputerNetwork HW\NetworkTcp1\TcpRecieve\TcpRecieve\bin\Debug\TcpRecieve.pdb
+C:\Users\Cihan\Desktop\Computer Network\ComputerNetworkHW\ComputerNetwork HW\NetworkTcp1\TcpRecieve\TcpRecieve\obj\Debug\TcpRecieve.csprojAssemblyReference.cache
+C:\Users\Cihan\Desktop\Computer Network\ComputerNetworkHW\ComputerNetwork HW\NetworkTcp1\TcpRecieve\TcpRecieve\obj\Debug\TcpRecieve.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\Desktop\Computer Network\ComputerNetworkHW\ComputerNetwork HW\NetworkTcp1\TcpRecieve\TcpRecieve\obj\Debug\TcpRecieve.exe
+C:\Users\Cihan\Desktop\Computer Network\ComputerNetworkHW\ComputerNetwork HW\NetworkTcp1\TcpRecieve\TcpRecieve\obj\Debug\TcpRecieve.pdb

@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\NetworkTcp1\TcpSender\TcpSender\bin\Debug\TcpSender.exe.config
+C:\Users\Cihan\Desktop\ComputerNetwork HW\NetworkTcp1\TcpSender\TcpSender\bin\Debug\TcpSender.exe.config
+C:\Users\Cihan\Desktop\ComputerNetwork HW\NetworkTcp1\TcpSender\TcpSender\bin\Debug\TcpSender.exe
+C:\Users\Cihan\Desktop\ComputerNetwork HW\NetworkTcp1\TcpSender\TcpSender\bin\Debug\TcpSender.pdb
+C:\Users\Cihan\Desktop\ComputerNetwork HW\NetworkTcp1\TcpSender\TcpSender\obj\Debug\TcpSender.csprojAssemblyReference.cache
+C:\Users\Cihan\Desktop\ComputerNetwork HW\NetworkTcp1\TcpSender\TcpSender\obj\Debug\TcpSender.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\Desktop\ComputerNetwork HW\NetworkTcp1\TcpSender\TcpSender\obj\Debug\TcpSender.exe
+C:\Users\Cihan\Desktop\ComputerNetwork HW\NetworkTcp1\TcpSender\TcpSender\obj\Debug\TcpSender.pdb
+C:\Users\Cihan\Desktop\Computer Network\ComputerNetworkHW\ComputerNetwork HW\NetworkTcp1\TcpSender\TcpSender\bin\Debug\TcpSender.exe.config
+C:\Users\Cihan\Desktop\Computer Network\ComputerNetworkHW\ComputerNetwork HW\NetworkTcp1\TcpSender\TcpSender\bin\Debug\TcpSender.exe
+C:\Users\Cihan\Desktop\Computer Network\ComputerNetworkHW\ComputerNetwork HW\NetworkTcp1\TcpSender\TcpSender\bin\Debug\TcpSender.pdb
+C:\Users\Cihan\Desktop\Computer Network\ComputerNetworkHW\ComputerNetwork HW\NetworkTcp1\TcpSender\TcpSender\obj\Debug\TcpSender.csprojAssemblyReference.cache
+C:\Users\Cihan\Desktop\Computer Network\ComputerNetworkHW\ComputerNetwork HW\NetworkTcp1\TcpSender\TcpSender\obj\Debug\TcpSender.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\Desktop\Computer Network\ComputerNetworkHW\ComputerNetwork HW\NetworkTcp1\TcpSender\TcpSender\obj\Debug\TcpSender.exe
+C:\Users\Cihan\Desktop\Computer Network\ComputerNetworkHW\ComputerNetwork HW\NetworkTcp1\TcpSender\TcpSender\obj\Debug\TcpSender.pdb
